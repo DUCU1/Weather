@@ -1,4 +1,5 @@
 @use 'weathericons';
-@use 'background';
-@use 'global';
+@use '_background.scss';
+@use 'global.scss';
 @use 'weathericons';
+
