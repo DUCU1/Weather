@@ -1,5 +1,2 @@
-@use 'weathericons';
-@use '_background.scss';
-@use 'global.scss';
-@use 'weathericons';
+@use 'weathericons' {}@use 'background.scss' {}@use 'global.scss' {}@use 'weathericons' {}
 /*# sourceMappingURL=style.css.map */
